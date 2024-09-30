@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "811418683839",
+    "project_id": "chat-modelo-67226",
+    "storage_bucket": "chat-modelo-67226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811418683839:android:3785697033e055bed7790a",
+        "android_client_info": {
+          "package_name": "com.toliu.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811418683839-nn5n2vp9d22igker518gdg2k3ql8r6en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuauQltvc79P8piE-lY6_3TPYeFqQyHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811418683839-nn5n2vp9d22igker518gdg2k3ql8r6en.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811418683839-b5eopt4tg5aqv7v3s11ct28keui4n6j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
